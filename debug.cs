@@ -2,7 +2,7 @@ using UnityEngine;
 
 {
     Debug.Log(parameters.message);
-    //debug log
+    Debug.Log("hi");
 }
 
 
